@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lmicael
+- 👋 Hi, I’m Lucas
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning JS, HTML and CSS
 - 📫 How to reach me lucasmicaelg@hotmail.com
